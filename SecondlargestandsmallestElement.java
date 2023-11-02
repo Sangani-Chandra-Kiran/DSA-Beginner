@@ -1,5 +1,11 @@
 
+// Approach
 
+/*
+ * sort the array in ascending order
+ * the second element is 2nd smallest element in array
+ * the second largest is last but 1st element in array
+ */
 import java.util.*;
 
 public class SecondlargestandsmallestElement {
@@ -17,3 +23,4 @@ public class SecondlargestandsmallestElement {
 
     }
 }
+
