@@ -11,9 +11,7 @@ public class SecondlargestElemnt {
             Arrays.sort(arr);
                     System.out.println("Array after sorting:"+arr[i]);
 
-        }
-        //print sorted array
-        
+        }        
         System.out.println("Second largest element is "+arr[n-1]);
 
     }
