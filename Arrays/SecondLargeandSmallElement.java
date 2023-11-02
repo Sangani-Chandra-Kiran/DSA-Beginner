@@ -1,3 +1,4 @@
+package Arrays;
 import java.io.*;
 /**
  * Approach for Second Small and largeElement
