@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class SecondlargestElemnt {
+public class SecondlargestandsmallestElement {
 
     public static void main(String[] args) {
         int arr []= {3,9,6,15,12};
