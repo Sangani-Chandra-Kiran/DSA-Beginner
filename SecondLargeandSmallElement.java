@@ -1,6 +1,10 @@
 import java.io.*;
 /**
- * SecondLargeandSmallElement
+ * Approach for Second Small and largeElement
+ * lets declare 2 variables as Integer.MAX_VALUE
+ * If the current element is smaller than ‘small’, then we update second_small and small variables
+ * Else if the current element is smaller than ‘second_small’ then we update the variable ‘second_small’
+ * Once we traverse the entire array, we would find the second smallest element in the variable second_small.
  */
 /**
  * SecondLargeandSmallElement
